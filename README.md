@@ -35,12 +35,12 @@ public class Daniel {
 - 🚀 Buscando evoluir continuamente como desenvolvedor.
 
 ---
+<div align="center">
 
 ## ⚡ Tecnologias e ferramentas
 
 ### 💻 Linguagens e banco de dados
 
-<div align="center">
 
   <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Java e MySQL" />
  <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Visual Studio Code e Visual Studio" />
