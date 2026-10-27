@@ -66,9 +66,11 @@ public class Daniel {
 ## 📚 Jornada de aprendizado
 
 <div align="center">
+  <bottom>
+     <img src="https://img.shields.io/badge/LEARNING-ALWAYS-007BFF?style=for-the-badge&labelColor=050505" alt="Learning Always" />
 
-  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-007BFF?style=for-the-badge&labelColor=050505" alt="Learning Always" />
-
+  </bottom>
+ 
 </div>
 
 Meu foco é fortalecer minha base em programação, desenvolver projetos práticos e aprender a criar aplicações cada vez melhores.
