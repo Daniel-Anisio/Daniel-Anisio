@@ -40,19 +40,19 @@ public class Daniel {
 
 ### 💻 Linguagens e banco de dados
 
-<div align="left">
+<div align="center">
 
   <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Java e MySQL" />
+ <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Visual Studio Code e Visual Studio" />
 
 </div>
 
 ### 🛠️ Ambientes de desenvolvimento
 
-<div align="left">
+<!-- <div align="left"> -->
 
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Visual Studio Code e Visual Studio" />
-
-</div>
+ 
+<!-- </div> -->
 
 | Tecnologia | Foco atual |
 |:---|:---|
