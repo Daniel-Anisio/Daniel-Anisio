@@ -1,4 +1,6 @@
- <div align="center">
+<!-- BANNER BLACK & BLUE -->
+
+<div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001F5C,100:007BFF&height=200&section=header&text=Daniel%20Anisio&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18" />
 
@@ -16,55 +18,60 @@ public class Daniel {
     public static void main(String[] args) {
 
         String nome = "Daniel Anisio";
-        String formacao = "Análise e Desenvolvimento de Sistemas";
-        String objetivo = "Desenvolvimento de Software";
-        String mentalidade = "Aprendendo hoje, evoluindo sempre";
+        String curso = "Análise e Desenvolvimento de Sistemas";
+        String objetivo = "Desenvolvedor de Software";
+        String foco = "Aprender, praticar e evoluir";
 
-        System.out.println(mentalidade);
+        System.out.println("Transformando ideias em código!");
     }
 }
 ```
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Construindo minha base na área de desenvolvimento de software.
+- 💻 Desenvolvendo minhas habilidades em programação.
 - 🧠 Aprimorando a lógica de programação e a resolução de problemas.
-- 🛠️ Explorando ferramentas e tecnologias para desenvolver projetos.
-- 🚀 Buscando conhecimento e evolução contínua na área de tecnologia.
+- 🗄️ Explorando bancos de dados e consultas SQL.
+- 🛠️ Utilizando ferramentas de desenvolvimento no dia a dia.
+- 🚀 Buscando evoluir continuamente como desenvolvedor.
 
 ---
-## ⚡ Tecnologias e ferramentas
 
-<div align="center">
+## ⚡ Tecnologias e ferramentas
 
 ### 💻 Linguagens e banco de dados
 
-<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Java e MySQL" />
+<div align="left">
 
-### 🛠️ Ambientes de desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Visual Studio Code e Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Java e MySQL" />
 
 </div>
 
----
-| Tecnologia | Área de aprendizado |
+### 🛠️ Ambientes de desenvolvimento
+
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Visual Studio Code e Visual Studio" />
+
+</div>
+
+| Tecnologia | Foco atual |
 |:---|:---|
-| ☕ Java | Lógica de programação e desenvolvimento de aplicações |
-| 🐬 MySQL | Banco de dados e linguagem SQL |
+| ☕ Java | Lógica de programação, condições, repetições e funções |
+| 🐬 MySQL | Banco de dados e consultas SQL |
 | 💙 Visual Studio Code | Edição de código e desenvolvimento |
-| 🟣 Visual Studio | Ambiente de desenvolvimento e ferramentas |
+| 🟣 Visual Studio | Conhecendo o ambiente de desenvolvimento |
 
 ---
 
 ## 📚 Jornada de aprendizado
 
-```html
 <div align="center">
 
-  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-007BFF?style=for-the-badge&labelColor=050505&logoColor=008CFF" alt="Learning Always" />
+  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-007BFF?style=for-the-badge&labelColor=050505" alt="Learning Always" />
 
 </div>
-```
+
+Meu foco é fortalecer minha base em programação, desenvolver projetos práticos e aprender a criar aplicações cada vez melhores.
 
 - 🧠 **Pensamento lógico:** aprimorando a capacidade de analisar e resolver problemas.
 - 💡 **Conhecimento em prática:** desenvolvendo projetos para consolidar o aprendizado.
@@ -91,15 +98,15 @@ public class Daniel {
 
 ---
 
-## 🎯 Objetivo profissional
+## 🎯 Meu objetivo
 
-Meu objetivo é continuar desenvolvendo minhas habilidades, transformar conhecimento em soluções práticas e construir uma trajetória sólida na área de tecnologia.
+Quero transformar conhecimento em projetos reais, aprimorar minhas habilidades técnicas e crescer na área de desenvolvimento de software.
 
-Acredito que a evolução acontece com dedicação, prática e vontade de aprender.
+**Cada linha de código é uma oportunidade de aprender algo novo.**
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/STATUS-EM%20CONSTANTE%20EVOLU%C3%87%C3%83O-007BFF?style=for-the-badge&labelColor=050505" />
+  <img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-007BFF?style=for-the-badge&labelColor=050505" alt="Status em evolução" />
 
   <br><br>
 
