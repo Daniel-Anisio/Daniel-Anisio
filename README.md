@@ -32,21 +32,21 @@ public class Daniel {
 - 🚀 Buscando conhecimento e evolução contínua na área de tecnologia.
 
 ---
-
 ## ⚡ Tecnologias e ferramentas
+
+<div align="center">
 
 ### 💻 Linguagens e banco de dados
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Java e MySQL" />
-</div>
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Java e MySQL" />
 
 ### 🛠️ Ambientes de desenvolvimento
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Visual Studio Code e Visual Studio" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Visual Studio Code e Visual Studio" />
+
 </div>
 
+---
 | Tecnologia | Área de aprendizado |
 |:---|:---|
 | ☕ Java | Lógica de programação e desenvolvimento de aplicações |
