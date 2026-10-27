@@ -35,7 +35,7 @@ public class Daniel {
 - 🚀 Buscando evoluir continuamente como desenvolvedor.
 
 ---
-<div align="center">
+<div align="left">
 
 ## ⚡ Tecnologias e ferramentas
 
