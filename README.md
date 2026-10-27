@@ -58,13 +58,13 @@ public class Daniel {
 
 ## 📚 Jornada de aprendizado
 
+```html
 <div align="center">
 
- <p align="center">
-  <strong style="color:#008CFF;">LEARNING ALWAYS</strong>
-</p>
+  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-007BFF?style=for-the-badge&labelColor=050505&logoColor=008CFF" alt="Learning Always" />
 
 </div>
+```
 
 - 🧠 **Pensamento lógico:** aprimorando a capacidade de analisar e resolver problemas.
 - 💡 **Conhecimento em prática:** desenvolvendo projetos para consolidar o aprendizado.
