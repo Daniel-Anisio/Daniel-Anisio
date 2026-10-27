@@ -1,6 +1,6 @@
 <!-- BANNER BLACK & BLUE -->
 
-<div align="left">
+<div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001F5C,100:007BFF&height=200&section=header&text=Daniel%20Anisio&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18" />
 
