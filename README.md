@@ -60,7 +60,9 @@ public class Daniel {
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-007BFF?style=for-the-badge&labelColor=050505" />
+ <p align="center">
+  <strong style="color:#008CFF;">LEARNING ALWAYS</strong>
+</p>
 
 </div>
 
